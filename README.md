@@ -30,5 +30,5 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/debadutta98)
-- Linkedin - [@yourusername](https://www.linkedin.com/in/debadutta-panda-58b905176/)
+- Frontend Mentor - [@debadutta98](https://www.frontendmentor.io/profile/debadutta98)
+- Linkedin - [@debadutta-panda-58b905176](https://www.linkedin.com/in/debadutta-panda-58b905176/)
